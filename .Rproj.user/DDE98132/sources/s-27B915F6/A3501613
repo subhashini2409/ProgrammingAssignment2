@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589549937107.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3412440656",
+    "id" : "A3501613",
+    "lastKnownWriteTime" : 1589551411,
+    "last_content_update" : 1589551412517,
+    "path" : "C:/Users/Subhashini/Desktop/cachematrix.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "23,354",
+        "scrollLine" : "11"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
